@@ -4,5 +4,6 @@
   display: inline-block;
   margin: 2em auto;
   border: 2px solid #000;
+  color: tomato;
   font-size: 2em;
 }
